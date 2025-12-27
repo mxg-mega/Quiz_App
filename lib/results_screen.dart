@@ -1,4 +1,4 @@
-import 'package:adv_basics/data/questions.dart';
+import 'package:quiz_app/data/questions.dart';
 import 'package:flutter/material.dart';
 
 class ResultsScreen extends StatelessWidget {
